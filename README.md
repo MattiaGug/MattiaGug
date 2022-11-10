@@ -35,7 +35,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiagug&theme=highcontrast" alt="mattiagug" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mattiagugole"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mattiagugole" />
+<p><a href="https://www.buymeacoffee.com/mattiagugole"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="mattiagugole" />
   <br><br><br>
 <img src="https://komarev.com/ghpvc/?username=mattiagug&label=Profile%20views&color=0e75b6&style=plastic" alt="mattiagug" /> </a></p>
 
