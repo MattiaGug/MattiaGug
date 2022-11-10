@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattia GUGOLE</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A Data Enthusiast</h3>
+<br>
+<h5 align = "center"> While worls was falling apart I found into coding and everything that concerns data a reason to </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiagug&label=Profile%20views&color=0e75b6&style=plastic" alt="mattiagug" /> </p>
 
