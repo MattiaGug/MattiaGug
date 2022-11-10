@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mattia GUGOLE</h1>
 <h3 align="center">A Data Enthusiast</h3>
-<br>
-<h5 align = "center"> While worls was falling apart I found into coding and everything that concerns data a reason to </h5>
+<h5 align = "center"> When world fell apart I found into coding a reason to keep myself motivated by learning how to leverage data and how to create web applications. Little by little I am trying to master every aspect of the data analysis and hopefully be able to study Data Science in the near future.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiagug&label=Profile%20views&color=0e75b6&style=plastic" alt="mattiagug" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiagug&label=Profile%20views&color=0e75b6&style=plastic" alt="mattiagug" /> </p>
 
 - 🌱 I’m currently learning **Vue, Julia, TensorFlow, Scikit Learn**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mattia.gugole@icloud.com**
 
-- ⚡ Fun fact **I am the only Italian who likes ham and pineapple pizza**
+- ⚡ Fun fact : **I am the only Italian who likes ham and pineapple pizza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
