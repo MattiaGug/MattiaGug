@@ -1,9 +1,11 @@
+
+
 <h1 align="center">Hi 👋, I'm Mattia GUGOLE</h1>
 <h3 align="center">A Data Enthusiast</h3>
 <h5 align = "center"> When world fell apart I found into coding a reason to keep myself motivated by learning how to leverage data and how to create web applications. Little by little I am trying to master every aspect of the data analysis and hopefully be able to study Data Science in the near future.</h5>
 
+<img align = "right" height = 300px width = 400px src= "https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif" >
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiagug&label=Profile%20views&color=0e75b6&style=plastic" alt="mattiagug" /> </p>
 
 - 🌱 I’m currently learning **Vue, Julia, TensorFlow, Scikit Learn**
 
@@ -28,7 +30,11 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiagug&theme=highcontrast" alt="mattiagug" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mattiagugole"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mattiagugole" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mattiagugole"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mattiagugole" />
+  <br><br><br>
+<img src="https://komarev.com/ghpvc/?username=mattiagug&label=Profile%20views&color=0e75b6&style=plastic" alt="mattiagug" /> </a></p>
+
+<br><br>
 
 
 
