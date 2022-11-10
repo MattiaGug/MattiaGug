@@ -1,9 +1,3 @@
-
-[![MasterHead](https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg?w=1380&t=st=1668094644~exp=1668095244~hmac=17b95bd455707c939c217881a99865365aed76668e60a9be62a4729407f97a17)]
-
-
-
-
 <h1 align="center">Hi 👋, I'm Mattia Gugole</h1>
 <h3 align="center">A Data Enthusiast and passionate Front-end Dev</h3>
 <h5 align = "center"> When world fell apart I found into coding a reason to keep myself motivated by learning how to leverage data and how to create web applications. Little by little I am trying to master every aspect of the data analysis and hopefully be able to study Data Science in the near future.</h5>
