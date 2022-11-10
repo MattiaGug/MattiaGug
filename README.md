@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)]
+[![MasterHead](https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg?w=1380&t=st=1668094644~exp=1668095244~hmac=17b95bd455707c939c217881a99865365aed76668e60a9be62a4729407f97a17)]
 
 
 
