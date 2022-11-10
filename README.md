@@ -1,7 +1,11 @@
 
+[![MasterHead](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)]
 
-<h1 align="center">Hi 👋, I'm Mattia GUGOLE</h1>
-<h3 align="center">A Data Enthusiast</h3>
+
+
+
+<h1 align="center">Hi 👋, I'm Mattia Gugole</h1>
+<h3 align="center">A Data Enthusiast and passionate Front-end Dev</h3>
 <h5 align = "center"> When world fell apart I found into coding a reason to keep myself motivated by learning how to leverage data and how to create web applications. Little by little I am trying to master every aspect of the data analysis and hopefully be able to study Data Science in the near future.</h5>
 
 <img align = "right" height = 300px width = 400px src= "https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif" >
