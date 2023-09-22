@@ -5,7 +5,7 @@
 <img align = "right" height = 300px width = 400px src= "https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif" >
 
 
-- 🌱 Currently enrolled in MSc Data Science UNIPD **
+- 🌱 Currently enrolled in MSc Data Science UNIPD 
 
 - 👨‍💻 All of my projects are available at [https://mattiagugole.work](https://mattiagugole.work)
 
