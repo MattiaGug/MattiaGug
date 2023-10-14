@@ -7,9 +7,9 @@
 
 - 🌱 Currently enrolled in MSc Data Science UNIPD 
 
-- 👨‍💻 All of my projects are available at [https://mattiagugole.work](https://mattiagugole.com)
+- 👨‍💻 All of my projects are available at [https://mattiagugole.com](https://mattiagugole.com)
 
-- 📝 I regularly write articles on [https://mattiagugole.work/blog](https://mattiagugole.com/blog)
+- 📝 I regularly write articles on [https://mattiagugole.com/blog](https://mattiagugole.com/blog)
 
 - 📫 How to reach me **mattia.gugole@icloud.com**
 
