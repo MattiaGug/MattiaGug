@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mattia.gugole@icloud.com**
 
-- ⚡ Fun fact : **I am the only Italian who likes ham and pineapple pizza **
+- ⚡ Fun fact : ** I am the only Italian who likes ham and pineapple pizza **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
